@@ -1,1 +1,1 @@
-this is a simple A simple react + redux boilerplate
+# this is a simple A simple react + redux boilerplate
