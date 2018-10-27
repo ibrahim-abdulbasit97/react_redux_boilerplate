@@ -15,13 +15,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-        </header>
-        <div>{this.props.user}</div>
-        <input type="text" onChange={this.updateTheUser} />
+        <h1>React + Redux boilerplate</h1>
       </div>
     );
   }
